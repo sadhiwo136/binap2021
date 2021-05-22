@@ -64,57 +64,30 @@
       </div>
       <div class="sidebar-wrapper" id="sidebar-wrapper">
         <ul class="nav">
-          @if(Auth::user()->usertype == 'admin')
-          <li class="{{ 'dashboard' == request()->path() ? 'active' : '' }}">
-            <a href="/dashboard">
-              <i class="now-ui-icons design_app"></i>
-              <p>Dashboard</p>
-            </a>
-          </li>
-          @endif
+          
           <!-- <li class="{{ 'maps' == request()->path() ? 'active' : '' }}">
             <a href="/maps">
               <i class="now-ui-icons location_map-big"></i>
               <p>Lokasi</p>
             </a>
           </li> -->
-          @if(Auth::user()->usertype == 'admin' || Auth::user()->usertype == 'developer')
-          <li class="{{ 'companies' == request()->path() ? 'active' : '' }}">
-            <a href="/companies">
-              <i class="now-ui-icons location_map-big"></i>
-              <p>Perusahaan</p>
-            </a>
-          </li>
-          @endif
+          
           <!-- <i class="now-ui-icons ui-1_bell-53"></i> -->
-          @if(Auth::user()->usertype == 'admin' || Auth::user()->usertype == 'developer')
-          <li class="{{ 'projects' == request()->path() ? 'active' : '' }}">
-            <a href="/projects">
-              <i class="now-ui-icons ui-1_bell-53"></i>
-              <p>Proyek</p>
-            </a>
-          </li>
-          @endif
-          <li class="{{ 'laporan' == request()->path() ? 'active' : '' }}">
-            <a href="/laporan">
-              <i class="now-ui-icons design_bullet-list-67"></i>
-              <p>Laporan</p>
-            </a>
-          </li>
+          
           <!-- <li class="{{ 'upload' == request()->path() ? 'active' : '' }}">
             <a href="/upload">
               <i class="now-ui-icons design_bullet-list-67"></i>
               <p>Documents</p>
             </a>
           </li> -->
-          @if(Auth::user()->usertype == 'admin')
+          
           <li class="{{ 'role-member' == request()->path() ? 'active' : '' }}">
             <a href="/role-member">
               <i class="now-ui-icons users_single-02"></i>
               <p>Users</p>
             </a>
           </li>
-          @endif
+          
           <!-- <li>
             <a href="./typography.html">
               <i class="now-ui-icons text_caps-small"></i>
@@ -184,7 +157,7 @@
               </li> -->
 
               <li class="nav-item dropdown">
-                  <a id="navbarDropdown" class="nav-link" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" v-pre> {{ Auth::user()->name }} ({{ Auth::user()->usertype }}) <span class="caret"></span>
+                  <a id="navbarDropdown" class="nav-link" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" v-pre>  <span class="caret"></span>
                   </a>
 
                   <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">

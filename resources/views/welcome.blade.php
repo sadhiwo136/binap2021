@@ -142,6 +142,12 @@
                                 </div>
                             </div>
 
+                            <div class="form-group row">
+                                <a href="/register">
+                                    <p>Daftar Baru</p>
+                                </a>
+                            <div>
+
                         </form>
                     </div>
                     @endauth

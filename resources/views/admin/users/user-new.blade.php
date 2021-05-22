@@ -9,7 +9,7 @@
     <div class="col-md-12">
     <div class="card">
         <div class="card-header">
-        <a href="/role-member" class="btn btn-danger float-right"><i class="fa fa-arrow-left"></i> Kembali</a>
+        <a href="/" class="btn btn-danger float-right"><i class="fa fa-arrow-left"></i> Kembali</a>
         <h4 class="card-title">Tambah User Baru</h4>
         @if(session('status'))
             <div class="alert alert-success" role="alert">
@@ -37,20 +37,6 @@
                         </div>
 
                         <div class="form-group row">
-                            <label for="phone" class="col-md-4 col-form-label text-md-right">{{ __('Phone') }}</label>
-
-                            <div class="col-md-6">
-                                <input id="phone" type="text" class="form-control @error('phone') is-invalid @enderror" name="phone" value="{{ old('phone') }}" required autocomplete="phone" autofocus>
-
-                                @error('phone')
-                                    <span class="invalid-feedback" role="alert">
-                                        <strong>{{ $message }}</strong>
-                                    </span>
-                                @enderror
-                            </div>
-                        </div>
-
-                        <div class="form-group row">
                             <label for="email" class="col-md-4 col-form-label text-md-right">{{ __('E-Mail Address') }}</label>
 
                             <div class="col-md-6">
@@ -61,18 +47,6 @@
                                         <strong>{{ $message }}</strong>
                                     </span>
                                 @enderror
-                            </div>
-                        </div>
-
-                        <div class="form-group row">
-                            <label for="usertype" class="col-md-4 col-form-label text-md-right">{{ __('Peran User') }}</label>
-                            <div class="col-md-6">
-                                <select name="usertype" class="form-control">
-                                    <option value="admin">Admin</option>
-                                    <option value="developer">Developer</option>
-                                    <option value="warga">Warga</option>
-                                    <option value="verifikator">Verifikator</option>
-                                </select>
                             </div>
                         </div>
 
