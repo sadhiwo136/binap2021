@@ -46,13 +46,11 @@ class DashboardController extends Controller
         $users = new User;
 
         $users->name = $request->input('name');
-        $users->phone = $request->input('phone');
-        $users->usertype = $request->input('usertype');
         $users->email = $request->input('email');
         $users->password = Hash::make($request->input('password'));
 
         $users->save();
 
-        return redirect('/register')->with('status', 'Anggota berhasil ditambahkan.');
+        return back()->with('status', 'Anggota berhasil ditambahkan.');
     }
 }

@@ -25,6 +25,8 @@ Route::get('/register', function () {
     return view('admin.users.user-new');
 });
 
+Route::post('/save-user', 'Admin\DashboardController@save_new');
+
 Route::group(['middleware' => ['auth', 'admin']], function() {
 
     Route::get('/dashboard', function() {
@@ -32,8 +34,6 @@ Route::group(['middleware' => ['auth', 'admin']], function() {
         
         return view('admin.dashboard')->with('d1', $d1)->with('d2', $d2)->with('m1', $m1)->with('c1', $c1)->with('n1', $n1)->with('L1', $L1);
     });
-
-    Route::post('/save-user', 'Admin\DashboardController@save_new');
 
     Route::get('/role-member', 'Admin\DashboardController@registered');
 
