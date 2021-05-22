@@ -1,0 +1,96 @@
+PT Siantar Madju didirikan pada tahun 1970, Kami memulai dari mesin dan usaha pemasaran yang sederhana, kami memproduksi sandal dengan merek dagang SkyWay yang kian meningkat dari hari ke hari. Pasar kami berkembang dari provinsi Jawa Timur ke berbagai provinsi lain di Indonesia.
+Pada tahun 1976, kami memperluas bisnis kami dalam skala besar dengan memasang mesin baru di lokasi baru yang lebih besar. Dengan teknologi baru dan manajemen modern yang kami terapkan mampu meningkatkan dan melipatgandakan produksi dengan sangat fantastis. Kami terus memperluas pasar kami dari hanya memasok pasar domestik kini mulai mensuplai kebutuhan pasar global
+
+Siantar Madju PT adalah bisnis yang bergerak di bidang Sepatu - Produsen 1dan Pengekspor; Eksportir . Binis ini terletak di lokasi Jl Raya Mastrip Waru Gunung 22-A . Anda juga dapat menghubungi bisnis ini melalui telepon di nomor 0317664454 atau kunjungi situs www.skyway.co.id
+
+YellowPages adalah website direktori listing bisnis Indonesia gratis dan terlengkap. YellowPages membantu pemilik usaha untuk melakukan promosi online secara mudah untuk memaksimalkan pemasaran online. Dengan memiliki listing bisnis di YellowPages Anda membuka akses dan informasi kepada jutaan potensial pelanggan usaha.
+Temukan jutaan informasi daftar listing bisnis (alamat kantor, nomor telepon, alamat email, dan lainnya) lengkap dan valid lainnya hanya di YellowPages Indonesia. 
+
+Fulfilling and satisfiying human needs for footwear all over the world has
+begun our most important aim. Since established in 1970, our brand
+has been faithful to its commitment, and proven itseft to be experienced in
+both traditional and hi-tech process of sandal manufacturing.
+ 
+Our design team always pays special attention to every litte details, starting
+from comfort, style, color, construction, to durability. Discipline is
+enforced throughout the system: design, model / protoype making,
+performance test, and production control.
+ 
+High Quality raw materials, responsible and realiable management, skillful
+and well-trained worker, accurate and sophisticated machine facilities
+enableI our brand to produce approximately 78,000,000 pairs/year.
+ 
+Supported by its competency, our brand has set a determination to ever
+increase production’s quality and quantity for the future. After all, comfort,
+style, durability and customer satisfaction is our goal of achievement.
+
+===============================================
+
+Nama saya satrio adhi wibowo. Saya lahir dan besar di Surabaya. Umur saya 29 tahun dan lulus menjadi sarjana komputer dari ITS. Saya sudah berpengalaman bekerja selama 3 tahun di bidang teknologi informasi baik di Surabaya maupun Jakarta sebagai programmer dan system administrator merangkap developer. Hobi saya adalah bermain game dan menonton film.
+
+My name is satrio adhi wibowo. I was born and raised in Surabaya. I am 29 years old and a computer degree from ITS. I have experienced working for 3 years in the information technology field both in Surabaya and Jakarta as a programmer and system administrator as well as a developer. My hobbies are playing games and watching movies.
+
+Mein Name ist Satrio Adhi Wibowo. Ich bin in Surabaya geboren und aufgewachsen. Ich bin 29 Jahre alt und habe einen Computerabschluss von ITS. Ich habe 3 Jahre im Bereich Informationstechnologie sowohl in Surabaya als auch in Jakarta als Programmierer und Systemadministrator sowie als Entwickler gearbeitet. Meine Hobbys sind Spiele spielen und Filme schauen.
+
+Apa yang baru Anda pelajari kemarin / minggu ini?
+> Pemrograman game dan maintenance website portofolio pribadi serta mempelajari algoritma2 dasar untuk penyegaran
+
+Apa yang membuatmu tertarik dengan coding?
+> Coding dapat mengasah kemampuan analisis dan matematis secara bersamaan dan memberdayakan data2 mentah menjadi bermanfaat untuk masyarakat
+
+Apa yang doctype lakukan?
+>All HTML documents must start with a <!DOCTYPE> declaration. The declaration is not an HTML tag. It is an "information" to the browser about what document type to expect. (bagian terwajib dari sebuah dokumen/file HTML)
+
+Apa perbedaan antara modus standar dan modus quirks?
+>>>
+In the old days of the web, pages were typically written in two versions: One for Netscape Navigator, and one for Microsoft Internet Explorer. When the web standards were made at W3C, browsers could not just start using them, as doing so would break most existing sites on the web. Browsers therefore introduced two modes to treat new standards compliant sites differently from old legacy sites.
+
+There are now three modes used by the layout engines in web browsers: quirks mode, almost standards mode, and full standards mode. In quirks mode, layout emulates nonstandard behavior in Navigator 4 and Internet Explorer 5. This is essential in order to support websites that were built before the widespread adoption of web standards. In full standards mode, the behavior is (hopefully) the behavior described by the HTML and CSS specifications. In almost standards mode, there are only a very small number of quirks implemented.
+
+In computing, quirks mode refers to a technique used by some web browsers for the sake of maintaining backward compatibility with web pages designed for old web browsers instead of strictly complying with W3C and IETF standards in standards mode.
+
+===============================================
+
+1. Bahasa pemrograman apa yang kamu kuasai?
+
+2. Berikan contoh coding salah satu program dengan bahasa pemrograman yang kamu kuasai!
+
+3. Langkah-langkah apa saja yang kamu lakukan saat membuat program?
+
+4. Bagaimana kamu mengikuti tren di bidang ini?
+
+5. Bagaimana cara kamu mengatasi tekanan dalam pekerjaan sebagai programmer?
+
+Gambarkan proyek terakhirmu saat menyelesaikan permasalahan software!
+
+Apa yang kamu pelajari dari pengalaman tersebut?
+
+Praktikkan code yang kamu ketahui!
+
+Apa yang kamu pelajari dan kamu sukai dari lingkungan kerjamu sebelumnya?
+
+================================================
+
+1. Apa tanggung jawab seorang Web Developer?
+
+Seorang Web Developer harus memahami kontribusinya dalam perancangan dan pengembangan situs. Berikan jawaban yang menggambarkan proses, kewajiban, dan rencana kamu dalam suatu proyek.
+
+Contohnya, Web Developer bertugas merancang, mengembangkan, memperkaya, menguji, dan meluncurkan apikasi situs dengan tujuan menciptakan suatu produk yang user-friendly. Mereka juga harus mampu mengelola dan mengatasi bug pada situs tersebut.
+
+================================================
+
+
+    Enterprise Resource Planning | ERP 
+    Transaction Processing System (TPS) Sistem Pemprosesan Transaksi
+    Office Automation System (OAS) Sistem Otomatis
+    Knowledge Work System (KWS) Sistem Kerja Pengetahuan
+    Decision Support System (DSS) Sistem Pendukung Keputusan
+     Expert System (ES) and Artificial Intelligent (AI)
+    Informatic Management System (IMS) Sistem Manajemen Informasi
+    Information Reporting System (IRS) Sistem Pelaporan Informasi
+    Group Decision Support System (GDSS) Sistem Pendukung Keputusan Kelompok
+    Executive Information System (EIS) Sistem Informasi Eksekutif
+    Supply Chain Management (SCM) Manajemen Rantai Pasokan
+
+============================
+
