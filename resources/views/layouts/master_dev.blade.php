@@ -56,7 +56,7 @@
     -->
       <div class="logo">
         <a href="/dashboard" class="simple-text">
-          E-PSU Master App
+          PFR Application
         </a>
         <!-- <a href="http://www.creative-tim.com" class="simple-text logo-normal">
           Master App
@@ -76,12 +76,12 @@
               <p>Lokasi</p>
             </a>
           </li> -->
-          <li class="{{ 'companies' == request()->path() ? 'active' : '' }}">
+          <!--<li class="{{ 'companies' == request()->path() ? 'active' : '' }}">
             <a href="/companies">
               <i class="now-ui-icons education_atom"></i>
               <p>Perusahaan</p>
             </a>
-          </li>
+          </li> -->
           <!-- <li>
             <a href="./notifications.html">
               <i class="now-ui-icons ui-1_bell-53"></i>
@@ -105,13 +105,13 @@
               <i class="now-ui-icons text_caps-small"></i>
               <p>Typography</p>
             </a>
-          </li>
+          </li>-->
           <li class="">
-            <a href="/register">
+            <a href="">
               <i class="now-ui-icons arrows-1_cloud-download-93"></i>
               <p>Tambah User</p>
             </a>
-          </li> -->
+          </li>
         </ul>
       </div>
     </div>

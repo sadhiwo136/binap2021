@@ -50,13 +50,13 @@
 
 <body class="">
   <div class="wrapper ">
-    <div class="sidebar" data-color="green">
+    <div class="sidebar" data-color="blue">
       <!--
         Tip 1: You can change the color of the sidebar using: data-color="blue | green | orange | red | yellow"
     -->
       <div class="logo">
         <a href="/dashboard" class="simple-text">
-          E-PSU Master App
+          PFR Application
         </a>
         <!-- <a href="http://www.creative-tim.com" class="simple-text logo-normal">
           Master App
